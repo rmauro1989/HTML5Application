@@ -1,0 +1,153 @@
+.reloj{
+    width: 200px;
+    height: 200px;
+    border: solid 4px #000;
+    border-radius: 50%;
+    margin: 100px auto;
+    position: relative;
+    
+    
+}
+#segundo{
+    width: 1px;
+    height: 80px;
+    background-color: #000;   
+    margin: 15px 100px;
+    position: absolute;
+    box-shadow: 1px 1px 2px;
+    transform-origin: 3px bottom;
+    z-index: 1;
+    
+}
+
+#minuto{
+    width: 5px;
+    height: 80px;
+    background-color: #000;   
+    margin: 15px 100px;
+    position: absolute;
+    box-shadow: 1px 1px 2px;
+    transform-origin: 3px bottom; 
+    z-index:1;
+    
+}
+#hora{
+    width: 5px;
+    height: 80px;
+    background-color: #000;   
+    margin: 15px 100px;
+    position: absolute;
+    box-shadow: 1px 1px 2px;
+    transform-origin: 3px bottom; 
+    z-index: 1;
+    
+}
+#1{
+    width: 5px;
+    height: 80px;
+    background-color: #000;   
+    margin: 15px 100px;
+    position: absolute;
+    box-shadow: 1px 1px 2px;
+     
+    z-index: 1;
+}
+#2{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#3{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#4{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#5{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#6{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#7{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#8{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#9{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#10{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#11{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
+#12{
+  height: 4px;
+  width: 50px;
+  background-color: #2b542c;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  z-index: 0;
+}
